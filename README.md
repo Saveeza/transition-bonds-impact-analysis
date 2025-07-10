@@ -26,3 +26,17 @@ These files were generated based on trends and numbers referenced in:
 ---
 
 *These datasets are reconstructed for educational and professional demonstration. Actual values were derived by referencing public summaries and policy documents.*
+
+---
+
+## 🧪 Jupyter Notebook
+
+Explore the interactive analysis here:  
+📘 [`transition_bond_analysis_notebook.ipynb`](notebooks/transition_bond_analysis_notebook.ipynb)
+
+This notebook:
+- Loads both datasets
+- Plots region-wise and sector-wise charts
+- Explains key observations with clean code and annotations
+
+
