@@ -1,6 +1,16 @@
 # transition-bonds-impact-analysis
 Data-driven supplement to my LinkedIn article on transition bonds, including datasets and analysis.
 ---
+## 📄 Original Article
+
+This repository is based on my published article on LinkedIn:
+
+👉 [From Greenwashing to Real Impact: Why Transition Bonds Matter](https://www.linkedin.com/pulse/from-greenwashing-real-impact-why-transition-bonds-saveeza-chaudhry--pbblf)
+
+🗣 English version available here.  
+📝 *German summary available on request.*
+
+---
 
 ## 📊 Real Data Analysis
 
