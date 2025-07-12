@@ -1,3 +1,6 @@
+<img src="visuals/green_vs_transition_banner.png" alt="Green vs Transition Bonds Impact Analysis" style="width:100%; margin-top:20px;">
+
+
 # 🌱 From Greenwashing to Real Impact — Why Transition Bonds Matter
 
 > **A data-driven, research-backed analysis of transition bonds, exploring global issuance trends, credibility gaps, and real-world policy risks.**  
@@ -69,9 +72,11 @@ This project uses data analysis to test if market growth matches *real decarboni
 ---
 
 ## ✅ **Status**
-- ✅ Article published
-- ✅ Repo & README created
-- 🔧 Adding advanced notebook & charts
+✅ Repository created and structured
+✅ Article published
+✅ Data and visuals uploaded
+📊 Notebook analysis completed
+📌 References included
 
 ---
 
