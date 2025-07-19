@@ -1,5 +1,7 @@
 <img src="visuals/green_vs_transition_banner.png" alt="Green vs Transition Bonds Impact Analysis" style="width:100%; margin-top:20px;">
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16150635.svg)](https://doi.org/10.5281/zenodo.16150635)
+
 
 # 🌱 From Greenwashing to Real Impact — Why Transition Bonds Matter
 
@@ -71,7 +73,21 @@ This project uses data analysis to test if market growth matches *real decarboni
 
 ---
 
+## 🙌 **Why this matters (call to action)**
+Understanding *where transition bonds succeed — and where they risk greenwashing —* is critical for sustainable finance.  
+This project shows how data & policy analysis together can support **credible investment decisions**.
+
+
+---
+
+## 📚 How to Cite
+
+Aziz, S. (2025). *Saveeza/transition-bonds-impact-analysis: Initial Zenodo Release — Transition Bond Impact Assessment (EU) (v1.0)*. Zenodo. https://doi.org/10.5281/zenodo.16150635
+
+---
+
 ## ✅ **Status**
+
 ✅ Repository created and structured
 ✅ Article published
 ✅ Data and visuals uploaded
@@ -80,9 +96,11 @@ This project uses data analysis to test if market growth matches *real decarboni
 
 ---
 
-## 🙌 **Why this matters (call to action)**
-Understanding *where transition bonds succeed — and where they risk greenwashing —* is critical for sustainable finance.  
-This project shows how data & policy analysis together can support **credible investment decisions**.
+## 👤 About the Author
+
+**Saveeza Aziz** is a data analyst with a focus on sustainable finance and applied policy evaluation. Her work combines technical expertise in ESG scoring, EU Taxonomy alignment, and investment modeling to support real-world financial decisions. She has contributed to projects on the real estate market in Luxembourg, the green transport transition in Germany, and the credibility challenge of transition bonds held by Dutch pension funds. Her approach bridges regulatory frameworks and market performance through data-driven insights that are both practical and impact-focused — especially in areas like green finance accountability, disclosure enforcement, and policy-aligned investment strategies.
+
+---
 
 *For collaboration, questions or discussion, feel free to reach out!*
 
